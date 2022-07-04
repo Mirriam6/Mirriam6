@@ -1,9 +1,9 @@
 ### Hey 👋🏽, I'Mirriam
 
-<a href="https://twitter.com/MandelaTm1iz">
+<a href="https://twitter.com/">
   <img align="left" alt="mandela  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mandela-tumukunde-794755194/">
+<a href="https://www.linkedin.com/in/">
   <img align="left" alt="Mirriam's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -11,7 +11,7 @@
 <br />
 
 
-Hi, I'm Mirriam, a software Developer 🚀 from Zambia, currently, I'm a student of Microverse. Beside's programming, I enjoy eating food,traveling,and giving back to the community.
+Hi, I'm Mirriam, a software Developer 🚀 from Zambia, currently, Beside's programming, I enjoy eating food,traveling,and giving back to the community.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
